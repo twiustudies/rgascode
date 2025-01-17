@@ -1,0 +1,90 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "topics_sensordata_name": {
+            "value": null
+        },
+        "servers_dataengprojecttw_name": {
+            "value": null
+        },
+        "sites_aggregatorforbatch_name": {
+            "value": null
+        },
+        "containerapps_datagenerator_name": {
+            "value": null
+        },
+        "sites_analyticsaggregatorfn_name": {
+            "value": null
+        },
+        "virtualNetworks_dataengprojvn_name": {
+            "value": null
+        },
+        "components_aggregatorforbatch_name": {
+            "value": null
+        },
+        "privateEndpoints_dataengprojpe_name": {
+            "value": null
+        },
+        "components_analyticsaggregatorfn_name": {
+            "value": null
+        },
+        "components_aggregatorforanalytics_name": {
+            "value": null
+        },
+        "namespaces_dataengprojecteventgrid_name": {
+            "value": null
+        },
+        "registries_dataengprojectcr_name": {
+            "value": null
+        },
+        "mongoClusters_dataengprojectbatchdb_name": {
+            "value": null
+        },
+        "storageAccounts_dataengineeringproj8371_name": {
+            "value": null
+        },
+        "storageAccounts_dataengineeringproja704_name": {
+            "value": null
+        },
+        "storageAccounts_dataengineeringprojb6ef_name": {
+            "value": null
+        },
+        "storageAccounts_dataengineeringprojb6er_name": {
+            "value": null
+        },
+        "serverfarms_ASP_DataEngineeringProject_81e2_name": {
+            "value": null
+        },
+        "serverfarms_ASP_DataEngineeringProject_9465_name": {
+            "value": null
+        },
+        "registries_datangcontainerregistry_name": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_database_windows_net_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "managedEnvironments_managedEnvironment_DataEngineering_becd_name": {
+            "value": null
+        },
+        "workspaces_workspacedataengineeringprojectbc9f_name": {
+            "value": null
+        },
+        "userAssignedIdentities_managedEnvironment_DataEngineering_becdDataEngineeringProjectOidc_name": {
+            "value": null
+        },
+        "sites_analyticsagg_externalid": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_281ca98d_3b71_4d9e_b25c_332a63090deb_EAU_externalid": {
+            "value": null
+        }
+    }
+}
